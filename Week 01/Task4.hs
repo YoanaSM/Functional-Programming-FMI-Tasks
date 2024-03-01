@@ -1,7 +1,7 @@
 main :: IO()
 main = do
 
-print (fibbIter 5)
+ print (fibbIter 5)
 
 fibbIter :: Int -> Integer
 
